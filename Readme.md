@@ -49,7 +49,7 @@ Utilize o programa de teste para produzir os *outputs* das várias alíneas.
 
 Ecreva um teste que indique se um determinado número é primo.
 
-### Parte 3 - Série de Fibonacci
+### Parte 3 - Série de Fibonacci (funções)
 
 A sequência de Fibonacci é determinada por
 
@@ -61,6 +61,15 @@ $F(n, \forall n \gt 1) = F(n-1) + F(n-2)$
 
 para um determinado número $n$, dere a sequência de Fibonacci entre 0 e $n$.
 
+### Parte 4 - Construção de algoritmos (funções)
+
+(a) Escreva a função fatorial: $n! = n \times (n-1) \times (n-2) \times ... \times 3 \times 2\times 1$
+
+(b) Determine a convergência de: $\sum_{n=1}^{+\infty} \frac{1}{n(n+1)}$
+
+(c) Determine a convergência de: $\sum_{m=1}^{+\infty} \sum_{n=1}^{m}\frac{n}{n^2}$
+
+(d) Escreva a função seno: $sen(\theta) = \sum_{n=0}^{+\infty} \frac{(-1)^n(\theta^{1n+1})}{(2n+1)!}$, $\theta \in [-4\pi, 4\pi]$
 ## Apoio
 
 1. Deve utilizar a função `main` para experimentar todos os princípios e construções abordadas em aula.
