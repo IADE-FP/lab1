@@ -35,7 +35,7 @@ Utilize o programa de teste para produzir os *outputs* das várias alíneas.
 
 (h) $7^2$
 
-(i) $\sum_{i=0}^{5}n_i, \forall n \in [1,1,2,3,5]$
+(i) $\sum^{5}_{i=0}n_i, \forall n \in [1,1,2,3,5]$
 
 ### Parte 2 - Área de polígonos
 
