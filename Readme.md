@@ -2,8 +2,6 @@
 
 ## Laboratório 1
 
-### Parte 1 - Análise de operações
-
 Considere o programa de teste:
 
 ```C
@@ -17,35 +15,51 @@ int main() {
 }
 ```
 
-Utilize o programa de teste para produzir os seguintes *outputs*:
+Utilize o programa de teste para produzir os *outputs* das várias alíneas.
 
-1. Texto:
+### Parte 1 - Análise de operações
 
-(a) olá mundo
+(a) `olá mundo`
 
-(b) "olá mundo"  
+(b) `"olá mundo"`
 
-2. Números inteiros:
+(c) $4 \times 4$
 
-(a) $4 \times 4$
+(d) $3 \times 1000$
 
-3. Números decimais:
+(e) $3000000 \times 9999999$
 
-(a) $\frac{20}{3}$
+(f) $\sqrt{177}$
 
-(b) $7^2$
+(g) $\frac{20}{3}$
 
-(e) $\sum_{i=0}^{5}n_i, \forall n \in [1,1,2,3,5]$
+(h) $7^2$
 
-### Parte 2 - Raiz quadrada
+(i) $\sum_{i=0}^{5}n_i, \forall n \in [1,1,2,3,5]$
 
-Calcule a raiz quadrada de 50.
+### Parte 2 - Área de polígonos
+
+(a) Rectângulo: $A = b \times a$
+
+(b) Trapezoide: $A = \frac{b_1 + b_2}{2}h$
+
+(c) Triangulo: $A = \sqrt{s(s-a)(s-b)(s-c)}$, $s = \frac{a+b+c}{2}$
+
+### Parte 2 - Número primos
+
+Ecreva um teste que indique se um determinado número é primo.
 
 ### Parte 3 - Série de Fibonacci
 
-Calcule a série de Fibonacci até ao 10º termo.
+A sequência de Fibonacci é determinada por
 
-A série de Fibonacci é uma sequência de números inteiros, começando normalmente por 0 e 1, na qual, cada termo subsequente corresponde à soma dos dois anteriores. A sequência é: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ...
+$F(0) = 1$
+
+$F(1) = 1$
+
+$F(n, \forall n \gt 1) = F(n-1) + F(n-2)$
+
+para um determinado número $n$, dere a sequência de Fibonacci entre 0 e $n$.
 
 ## Apoio
 
