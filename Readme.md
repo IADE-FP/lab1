@@ -47,7 +47,7 @@ Utilize o programa de teste para produzir os *outputs* das várias alíneas.
 
 ### Parte 3 - Número primos
 
-Ecreva um teste que indique se um determinado número é primo.
+Escreva um teste que indique se um determinado número é primo.
 
 ### Parte 4 - Série de Fibonacci (funções)
 
