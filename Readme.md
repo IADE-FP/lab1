@@ -65,7 +65,7 @@ para um determinado número $n$, dere a sequência de Fibonacci entre 0 e $n$.
 
 (a) Escreva a função fatorial: $n! = n \times (n-1) \times (n-2) \times ... \times 3 \times 2\times 1$
 
-(b) Determine a convergência de: $\sum_{n=1}^{+\infty} \frac{1}{n(n+1)}$
+(b) Determine a convergência de: $\sum_{n=1}^{+\infty}{\frac{1}{n(n+1)}}$
 
 (c) Determine a convergência de: $\sum_{m=1}^{+\infty} \sum_{n=1}^{m}\frac{n}{n^2}$
 
