@@ -59,7 +59,7 @@ $F(1) = 1$
 
 $F(n, \forall n \gt 1) = F(n-1) + F(n-2)$
 
-para um determinado número $n$, dere a sequência de Fibonacci entre 0 e $n$.
+para um determinado número $n$, gere a sequência de Fibonacci entre 0 e $n$.
 
 ### Parte 5 - Construção de algoritmos (funções)
 
